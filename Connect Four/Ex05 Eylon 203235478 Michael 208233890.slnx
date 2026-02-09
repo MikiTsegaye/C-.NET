@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ex05.GameUI/Ex05.GameUI.csproj" Id="6ab724b7-50c1-49b1-873a-c004173ee61f" />
+  <Project Path="Ex05.Logic/Ex05.Logic.csproj" Id="9f384d4c-08b7-447a-91e7-3fb089e912e0" />
+</Solution>
